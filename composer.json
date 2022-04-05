@@ -1,0 +1,21 @@
+{
+    "name": "martyn/twogether",
+    "description": "Twogether Interview Test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Martyn\\Twogether\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "FeatheredFiend",
+            "email": "Thebloodysunburns@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "symfony/console": "^6.0"
+    }
+}
